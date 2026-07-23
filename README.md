@@ -78,11 +78,12 @@ Python Programming
 
 ---
 
-📸 Project Preview
+## 📸 Project Preview
 
-<p align="center">  
-  <img src="task02_preview.png" alt="Task 02 Preview" width="900">  
-</p>  
+<p align="center">
+  <img src="file_00000000031c81fa987a2068b71cbdf9.png" alt="Task 02 Project Preview" width="900">
+</p>
+
 ---
 
 🚀 Output
@@ -103,7 +104,4 @@ Debashis Sahoo
 
 💻 GitHub: https://github.com/debashis-07
 
-
 ---
-
-Add dashboard preview
